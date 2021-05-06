@@ -2,6 +2,8 @@
   Johannes Meyer
 </h1>
 
+![Logo](https://1000logos.net/wp-content/uploads/2018/08/Hogwarts-Logo.jpg)
+
 ## Ueber mich
 
 > Mein leben so als Zauberer ist schon ganz nice, aber ist auch immer wieder eine große Herausforderung.
